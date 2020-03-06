@@ -116,7 +116,7 @@ From: /Users/sophiedebenedetto/Desktop/Dev/Ruby-Methods_and_Variables/pry-readme
     1: def plus_two(num)
     2:  num + 2
     3:  num 
- => 4:  binding.pry
+ => 4:  blinding.pry
     5: end
 
 [1] pry(#<RSpec::ExampleGroups::PlusTwo>)>
