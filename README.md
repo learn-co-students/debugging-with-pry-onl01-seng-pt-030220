@@ -1,4 +1,4 @@
-# Debugging with Pry
+code # Debugging with Pry
 
 ## Overview
 
